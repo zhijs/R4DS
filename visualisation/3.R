@@ -49,4 +49,6 @@ p4 = ggplot(data = diamonds) +
   coord_polar()
 
 
+
+
 ggsave('./coord.png', bar)
